@@ -1,0 +1,227 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "page_background",
+      "value": "#F1F3F5"
+    },{
+      "name": "background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "rank_first_gradient_start",
+      "value": "#FFFF9A"
+    },
+    {
+      "name": "rank_first_gradient_end",
+      "value": "#CCA538"
+    },
+    {
+      "name": "rank_first_border",
+      "value": "#9E8A24"
+    },
+    {
+      "name": "rank_first_text",
+      "value": "#9E8A24"
+    },
+    {
+      "name": "rank_secondary_gradient_start",
+      "value": "#B8B8B8"
+    },
+    {
+      "name": "rank_secondary_gradient_end",
+      "value": "#9C9C9C"
+    },
+    {
+      "name": "rank_secondary_border",
+      "value": "#7E7E7E"
+    },
+    {
+      "name": "rank_secondary_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "rank_third_gradient_start",
+      "value": "#B9A185"
+    },
+    {
+      "name": "rank_third_gradient_end",
+      "value": "#AE8659"
+    },
+    {
+      "name": "rank_third_border",
+      "value": "#775C3E"
+    },
+    {
+      "name": "rank_third_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "rank_view_color_holder",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "item_color",
+      "value": "#007DFF"
+    },
+    {
+      "name": "item_color_black",
+      "value": "#182431"
+    },
+    {
+      "name": "font_description",
+      "value": "#989A9C"
+    },
+    {
+      "name": "circle_text_background",
+      "value": "#007dff"
+    },
+        {
+          "name": "title_text_color",
+          "value": "#182431"
+        },
+        {
+          "name": "more_text_color",
+          "value": "#99182431"
+        },
+        {
+          "name": "placeholder_color",
+          "value": "#99182431"
+        },
+        {
+          "name": "line_color",
+          "value": "#0D182431"
+        },
+        {
+          "name": "login_button_color",
+          "value": "#007DFF"
+        },
+        {
+          "name": "blue_text_color",
+          "value": "#007DFF"
+        },
+        {
+          "name": "main_page_selected",
+          "value": "#1698CE"
+        },
+        {
+          "name": "main_page_normal",
+          "value": "#6B6B6B"
+        },
+        {
+          "name": "home_grid_fontColor",
+          "value": "#99182431"
+        },
+        {
+          "name": "mine_button_color",
+          "value": "#E5E8EA"
+        },
+        {
+          "name": "logout_font_color",
+          "value": "#FA2A2D"
+        },
+        {
+          "name": "item_divider_color",
+          "value": "#33000000"
+        },
+    {
+      "name": "column_background_color",
+      "value": "#F5F5F5"
+    },
+    {
+      "name": "custom_color",
+      "value": "#182431"
+    },
+    {
+      "name": "custom_button_color",
+      "value": "#007DFF"
+    },
+    {
+      "name": "custom_blank_color",
+      "value": "#F2F2F2"
+    },
+    {
+      "name": "place_color",
+      "value": "#99000000"
+    },
+    {
+      "name": "divider_color",
+      "value": "#0D182431"
+    },
+    {
+      "name": "primaryBgColor",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "gray",
+      "value": "#989A9C"
+    },
+    {
+      "name": "deepGray",
+      "value": "#182431"
+    },
+    {
+      "name": "freshRed",
+      "value": "#E92F4F"
+    },
+    {
+      "name": "indicator_select",
+      "value": "#F74E42"
+    },
+    {
+      "name": "focus_color",
+      "value": "#FFE92FD6"
+    },
+    {
+      "name": "home_background_color",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "index_backgroundColor",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "slide_selectedColor",
+      "value": "#FF4B6A"
+    },{
+      "name": "index_tab_font_color",
+      "value": "#182431"
+    },
+    {
+      "name": "index_tab_selected_font_color",
+      "value": "#007DFF"
+    },
+    {
+      "name": "index_tab_unselected_font_color",
+      "value": "#DDDDDD"
+    },
+    {
+      "name": "index_tab_local_list_font_color",
+      "value": "#D3D3D3"
+    },
+    {
+      "name": "button_back_ground_color",
+      "value": "#007DFF"
+    },
+    {
+      "name": "track_color",
+      "value": "#888888"
+    },
+    {
+      "name": "speed_text_color",
+      "value": "#DDDDDD"
+    }
+
+
+
+
+
+  ]
+}

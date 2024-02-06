@@ -1,0 +1,77 @@
+
+
+import { VideoItem } from '../../viewmodel/VideoItem';
+import { HomeDialogModel } from '../../viewmodel/HomeDialogModel';
+import  CommonConstants  from '../../common/constants/CommonConstant';
+import { HomeConstants } from '../../common/constants/HomeConstants';
+
+@CustomDialog
+export struct HomeTabContentDialog {
+  private dialogModel: HomeDialogModel = new HomeDialogModel(this);
+  @State linkCheck: Resource = $r('app.string.link_check');
+  @State confirmAdd: Resource = $r('app.string.confirm_add');
+  @State loadColor: Resource = $r('app.color.index_tab_selected_font_color');
+  @Link name: string;
+  @Link src: string;
+  @Link videoList: Array<VideoItem>;
+
+  controller: CustomDialogController = new CustomDialogController({
+    builder: HomeTabContentDialog({
+      name: '',
+      src: '',
+      videoList: []
+    }),
+  });
+  confirm: () => void = () => {
+  };
+
+  build() {
+    Column() {
+      TextInput({ placeholder: $r('app.string.link_placeholder'), text: this.src })
+        .height(HomeConstants.TEXT_HEIGHT)
+        .width(CommonConstants.NINETY_PERCENT)
+        .margin({ top: HomeConstants.TEXT_MARGIN_TOP })
+        .onChange((value: string) => {
+          this.src = value;
+        })
+      TextInput({ placeholder: $r('app.string.name_placeholder'), text: this.name })
+        .height(HomeConstants.TEXT_HEIGHT)
+        .width(CommonConstants.NINETY_PERCENT)
+        .margin({ top: HomeConstants.TEXT_MARGIN_TOP })
+        .onChange((value: string) => {
+          this.name = value;
+        })
+      Flex({ justifyContent: FlexAlign.SpaceAround }) {
+        Text(this.linkCheck)
+          .fontSize($r('app.float.dialog_font_size'))
+          .fontColor(this.loadColor)
+          .onClick(() => {
+            if (this.dialogModel.checkSrcNull()) {
+              this.dialogModel.checkSrcValidity(0);
+            }
+          })
+        Divider()
+          .vertical(true)
+          .height($r('app.float.tab_dialog_divider_height'))
+          .color($r('app.color.divider_color'))
+          .opacity($r('app.float.tab_dialog_divider_opacity'))
+          .margin({
+            left: $r('app.float.dialog_divider_margin_left'),
+            right: $r('app.float.dialog_divider_margin_left')
+          })
+        Text(this.confirmAdd)
+          .fontSize($r('app.float.dialog_font_size'))
+          .fontColor(this.loadColor)
+          .onClick(() => {
+            if (this.dialogModel.checkSrcNull() && this.dialogModel.checkNameNull()) {
+              this.dialogModel.checkSrcValidity(1);
+            }
+          })
+      }
+      .margin({
+        top: $r('app.float.dialog_column_margin_top'),
+        bottom: $r('app.float.dialog_column_margin_bottom')
+      })
+    }
+  }
+}

@@ -1,0 +1,583 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    }, {
+      "name": "entryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "entryAbility_label",
+      "value": "RankingDemo"
+    },
+    {
+      "name": "page_type",
+      "value": "variety"
+    },
+    {
+      "name": "page_number",
+      "value": "ranking"
+    },
+    {
+      "name": "page_vote",
+      "value": "vote"
+    },
+    {
+      "name": "prompt_text",
+      "value": "Press again to exit the app"
+    },
+    {
+      "name": "title",
+      "value": "Ranking List"
+    },
+    {
+      "name": "title_default",
+      "value": " "
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "待办列表"
+    },
+    {
+      "name": "page_title",
+      "value": "待办"
+    },
+    {
+      "name": "fruit_apple",
+      "value": "苹果"
+    },
+    {
+      "name": "fruit_grapes",
+      "value": "待办"
+    },
+    {
+      "name": "fruit_watermelon",
+      "value": "西瓜"
+    },{
+      "name": "fruit_banana",
+      "value": "香蕉"
+    },{
+      "name": "fruit_pineapple",
+      "value": "待办"
+    },{
+      "name": "fruit_durian",
+      "value": "待办"
+    }, {
+      "name": "fruit_red_grape",
+      "value": "待办"
+    },
+    {
+      "name": "fruit_pears",
+      "value": "梨子"
+    },
+    {
+      "name": "fruit_carambola",
+      "value": "待办"
+    },
+    {
+      "name": "fruit_guava",
+      "value": "待办"
+    },{
+      "name": "login_page",
+      "value": "登录页"
+    },{
+      "name": "login_more",
+      "value": "登录账号以使用更多服务"
+    },{
+      "name": "account",
+      "value": "账号"
+    },{
+      "name": "password",
+      "value": "密码"
+    },{
+      "name": "login_Type",
+      "value": "账号密码登录"
+    },
+    {
+      "name": "forget_password",
+      "value": "忘记密码"
+    }, {
+      "name": "login",
+      "value": "登录"
+    },
+    {
+      "name": "login_types",
+      "value": "其他登录方式"
+    },
+    {
+      "name": "register_account",
+      "value": "Registering an Account"
+    },
+    {
+      "name": "forgot_password",
+      "value": "Forgot Password"
+    },
+    {
+      "name": "message_login",
+      "value": "SMS verification code login"
+    },
+    {
+      "name": "my_love",
+      "value": "My favorite"
+    },
+    {
+      "name": "history_record",
+      "value": "History"
+    },
+    {
+      "name": "message",
+      "value": "Message"
+    },
+    {
+      "name": "shopping_cart",
+      "value": "Shopping cart"
+    },
+    {
+      "name": "my_goal",
+      "value": "My goal"
+    },
+    {
+      "name": "group",
+      "value": "Group"
+    },
+    {
+      "name": "favorites",
+      "value": "Favorites"
+    },
+    {
+      "name": "recycle_bin",
+      "value": "Recycle Bin"
+    },
+    {
+      "name": "main_page",
+      "value": "Home"
+    },
+    {
+      "name": "mine_page",
+      "value": "Mine"
+    },
+    {
+      "name": "main_page_rankings",
+      "value": "Rankings"
+    },
+    {
+      "name": "main_page_others",
+      "value": "Xiamen Station, we'll see you."
+    },
+    {
+      "name": "main_page_new",
+      "value": "New product debut"
+    },
+    {
+      "name": "main_Page_brand",
+      "value": "Big name flash"
+    },
+    {
+      "name": "main_page_more",
+      "value": "More Big Names"
+    },
+    {
+      "name": "main_page_found",
+      "value": "Find good things"
+    },
+    {
+      "name": "mine_title_name",
+      "value": "Mr. Lee"
+    },
+    {
+      "name": "mine_title_email",
+      "value": "2000000@shenhua.cc"
+    },
+    {
+      "name": "mine_list_news",
+      "value": "Push Notifications"
+    },
+    {
+      "name": "mine_list_data",
+      "value": "Data Management"
+    },
+    {
+      "name": "mine_list_menu",
+      "value": "Menu Settings"
+    },
+    {
+      "name": "mine_list_about",
+      "value": "About"
+    },
+    {
+      "name": "mine_list_storage",
+      "value": "Clear Cache"
+    },
+    {
+      "name": "mine_list_privacy",
+      "value": "Privacy Agreement"
+    },
+    {
+      "name": "mine_button",
+      "value": "Logout"
+    },
+    {
+      "name": "home_list",
+      "value": "List"
+    },
+    {
+      "name": "mine_toggle",
+      "value": "switch"
+    },
+    {
+      "name": "incomplete_toast",
+      "value": "This function is not perfect, please look forward to it."
+    },
+    {
+      "name": "please_input_account",
+      "value": "Please input the account"
+    },
+    {
+      "name": "please_input_password",
+      "value": "Please input the password"
+    },
+    {
+      "name": "open_my_love",
+      "value": "Open my favorite"
+    },
+    {
+      "name": "open_history_record",
+      "value": "Open history"
+    },
+    {
+      "name": "open_message",
+      "value": "Open message"
+    },
+    {
+      "name": "open_shopping_cart",
+      "value": "Open shopping cart"
+    },
+    {
+      "name": "open_my_goal",
+      "value": "Open my goal"
+    },
+    {
+      "name": "open_group",
+      "value": "Open group"
+    },
+    {
+      "name": "open_favorites",
+      "value": "Open favorites"
+    },
+    {
+      "name": "open_recycle_bin",
+      "value": "Open Recycle Bin"
+    },
+    {
+      "name": "open_rankings",
+      "value": "Open rankings"
+    },
+    {
+      "name": "open_new",
+      "value": "Open new product debut"
+    },
+    {
+      "name": "open_brand",
+      "value": "Open big name flash"
+    },
+    {
+      "name": "open_found",
+      "value": "Open find good things"
+    },
+    {
+      "name": "open_news",
+      "value": "Push is on"
+    },
+    {
+      "name": "close_news",
+      "value": "Push is off"
+    },
+    {
+      "name": "open_data",
+      "value": "Open data management"
+    },
+    {
+      "name": "open_menu",
+      "value": "Open menu settings"
+    },
+    {
+      "name": "open_about",
+      "value": "Open about"
+    },
+    {
+      "name": "clear_storage",
+      "value": "Clear cache succeeded"
+    },
+    {
+      "name": "check_privacy",
+      "value": "Check privacy agreement"
+    },
+    {
+      "name": "text_input_hint",
+      "value": "Nickname"
+    },
+    {
+      "name": "text_input_signature",
+      "value": "Personalized signature"
+    },
+    {
+      "name": "title_birthdate",
+      "value": "Date of birth"
+    },
+    {
+      "name": "title_sex",
+      "value": "Sex"
+    },
+    {
+      "name": "default_sex",
+      "value": "Male"
+    },
+    {
+      "name": "title_hobbies",
+      "value": "Hobbies (multiple choices)"
+    },
+    {
+      "name": "alert_dialog_message",
+      "value": "The current data is not saved. Are you sure you want to leave?"
+    },
+    {
+      "name": "cancel_button",
+      "value": "Cancel"
+    },
+    {
+      "name": "definite_button",
+      "value": "Definite"
+    },
+    {
+      "name": "text_personal_title",
+      "value": "Personal information"
+    },
+    {
+      "name": "text_title_hobbies",
+      "value": "Hobbies"
+    },
+        {
+          "name": "entry_desc",
+          "value": "description"
+        },
+
+        {
+          "name": "selected",
+          "value": "精选"
+        },
+        {
+          "name": "mobile_phone",
+          "value": "手机"
+        },
+        {
+          "name": "clothes",
+          "value": "服饰"
+        },
+        {
+          "name": "wear",
+          "value": "穿搭"
+        },
+        {
+          "name": "home_furnishing",
+          "value": "家居"
+        },
+        {
+          "name": "goodsName",
+          "value": "【新品上市】畅乐冰晶绿低脂新品"
+        },
+        {
+          "name": "another_goodsName",
+          "value": "【新品上市】奶茶自然清新亲近自然"
+        },
+        {
+          "name": "advertising_language",
+          "value": "重磅推荐，MD新品试用中！"
+        },
+        {
+          "name": "evaluate",
+          "value": "6662人评价 95%好评"
+        },
+        {
+          "name": "price_199",
+          "value": "¥199"
+        },
+        {
+          "name": "price_265",
+          "value": "¥265"
+        },
+        {
+          "name": "price_810",
+          "value": "¥810"
+        },
+        {
+          "name": "price_999",
+          "value": "¥999"
+        },
+        {
+          "name": "to_bottom",
+          "value": "-- 已经到底了 --"
+        },
+        {
+          "name": "refresh_text",
+          "value": "正在刷新"
+        },
+        {
+          "name": "title_bar_homepage",
+          "value": "Home"
+        },
+        {
+          "name": "title_bar_phone",
+          "value": "Phone"
+        },
+        {
+          "name": "title_bar_computer",
+          "value": "Computers"
+        },
+        {
+          "name": "title_bar_foods",
+          "value": "Food"
+        },
+        {
+          "name": "title_bar_men_wear",
+          "value": "Menswear"
+        },
+        {
+          "name": "title_bar_fresh",
+          "value": "Fresh"
+        },
+        {
+          "name": "title_bar_furniture_kitchenware",
+          "value": "Furniture"
+        },
+        {
+          "name": "title_bar_classification",
+          "value": "Classifieds"
+        },
+        {
+          "name": "search_text",
+          "value": "Children's dining chair"
+        },
+        {
+          "name": "footer_text",
+          "value": "It's been to the end."
+        },
+    {
+      "name": "slider_startTime",
+      "value": "00:00"
+    },
+    {
+      "name": "back",
+      "value": "video"
+    },
+    {
+      "name": "empty",
+      "value": "empty"
+    },
+
+        {
+          "name": "index_tab_local_video",
+          "value": "Local video list"
+        },
+        {
+          "name": "index_tab_internet_video",
+          "value": "Network video resources"
+        },
+        {
+          "name": "scan_local_video",
+          "value": "Network video resources"
+        },
+        {
+          "name": "add_internet_video",
+          "value": "Add Network Video"
+        },
+        {
+          "name": "link_check",
+          "value": "Link verification"
+        },
+        {
+          "name": "link_checking",
+          "value": "Verifying..."
+        },
+        {
+          "name": "confirm_add",
+          "value": "Confirm Addition"
+        },
+        {
+          "name": "link_placeholder",
+          "value": "links"
+        },
+        {
+          "name": "name_placeholder",
+          "value": "File Name"
+        },
+        {
+          "name": "speed_play",
+          "value": "Playing at double speed"
+        },
+        {
+          "name": "monolithic_cycle",
+          "value": "monolithic cycle"
+        },
+        {
+          "name": "continuous_playback",
+          "value": "Continuous playback"
+        },
+        {
+          "name": "video_playback",
+          "value": "Video playback"
+        },
+        {
+          "name": "cancel",
+          "value": "To cancel"
+        },
+        {
+          "name": "link_check_success",
+          "value": "Link verification succeeded"
+        },
+        {
+          "name": "link_check_fail",
+          "value": "Failed to verify the link"
+        },
+        {
+          "name": "link_check_address_internet",
+          "value": "Ensure that the IP address is correct and the network is normal"
+        },
+        {
+          "name": "place_holder_src",
+          "value": "Please enter a link"
+        },
+        {
+          "name": "place_holder_name",
+          "value": "Please enter a file name"
+        },
+        {
+          "name": "http_error_message",
+          "value": "Network request failed, please try later!"
+        },
+        {
+          "name": "request_button_name",
+          "value": "request"
+        },
+        {
+          "name": "input_address",
+          "value": "Please input the address"
+        },
+        {
+          "name": "request_success",
+          "value": "success"
+        },
+        {
+          "name": "http_response_error",
+          "value": "Request error, please check if there is a network."
+        }
+
+
+
+
+  ]
+}
